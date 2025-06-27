@@ -72,9 +72,6 @@
     -->
     <string name="config_defaultCredentialManagerHybridService" translatable="false">com.google.android.gms/.auth.api.credentials.credman.service.RemoteService</string>
 
-    <!-- The name of the package that will hold the dialer role by default. -->
-    <string name="config_defaultDialer" translatable="false">com.google.android.dialer</string>
-
     <!-- The package name of the dock manager app. Must be granted the
          POST_NOTIFICATIONS permission. -->
     <string name="config_defaultDockManagerPackageName" translatable="false">com.google.android.apps.nest.dockmanager.app</string>
@@ -178,12 +175,6 @@
         com.google.android.bluetooth
     </string>
     -->
-
-    <!-- The name of the package that will hold the call redirection role by default. -->
-    <string name="config_defaultCallRedirection" translatable="false">com.google.android.dialer</string>
-
-    <!-- The name of the package that will hold the call screening role by default. -->
-    <string name="config_defaultCallScreening" translatable="false">com.google.android.dialer</string>
 
     <!-- The name of the package that will hold the call streaming role. -->
     <string name="config_systemCallStreaming" translatable="false">com.google.android.gms</string>
